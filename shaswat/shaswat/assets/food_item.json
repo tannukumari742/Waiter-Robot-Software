@@ -1,0 +1,8 @@
+{
+    "food_items": {
+      "pizza": true,
+      "burger": true,
+      "pasta": true
+    }
+  }
+  

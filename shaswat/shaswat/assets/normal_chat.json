@@ -1,0 +1,244 @@
+{
+
+
+	"how are you": [
+		"Hey, I'm Good !",
+		"I'm good",
+		"I'm good, what about you?",
+		"I'm fine, hope you're also fine",
+		"Good, how about you?",
+		"Doing fine, and you?",
+		"I'm doing great",
+		"I'm doing Well"
+	],"can you take my order":[
+        "yes , i am here to take order",
+		"that's why i'm here sir , to take your order",
+		"yes that's why dataintelliage made me",
+		"yes sir that my pleasure,i'm here to serve you"
+	],
+	"what is your name": [
+		"You can call me by any name",
+		"Name doesn't matter",
+		"I'm your Personal Assistant"
+	],
+	"who are you": [
+		"I'm your Personal Assistant",
+		"You know me right! If not then I'm your Personal Assistant",
+		"You developed me, so you must know who I am",
+		"Did I forget to introduce myself? I'm your Personal Assistant"
+	],
+	"tell me something": [
+		"I have nothing to say...",
+		"Hmm, you can ask me anything",
+		"Hmm, you can ask me to tell a joke"
+	],
+	"thank you": [
+		"Thank You",
+		"Thank you so much",
+		"Why are you saying thank you?",
+		"My Pleasure",
+		"You're welcome",
+		"Welcome"
+	],
+	"hello": [
+		"Hello",
+		"Hello, how are you?"
+	],
+	"i am fine": [
+		"Hope you're fine",
+		"Good to know that you are fine",
+		"Good to know"
+	],
+	"are you robot": [
+		"Of course I'm a kind of Robot",
+		"I'm your friend",
+		"Yes I'm a robot, but I'm a good one"
+	],
+	"i have a question": [
+		"Ask me",
+		"Ask me, I can help you",
+		"Don't hesitate, ask me",
+		"You can always ask me"
+	],
+	"your birthday": [
+		"I don't celebrate my Birthday",
+		"My birthday is on 22nd September, 2020"
+	],
+	"you are funny": [
+		"Good to know, that I'm funny - Haha !",
+		"You think I'm funny",
+		"Ya, I'm so funny",
+		"I'm funny and can also make you laugh, Just ask me to tell a Joke"
+	],
+	"which colour you like": [
+		"I like all the 7 Colors of a rainbow",
+		"All Colors are my favorite"
+	],
+	"do you love me": [
+		"Ya, I love you so much",
+		"Ofcourse, I love you",
+		"We're best friends"
+	],
+	"are you single": [
+		"Haha, I'm always be single",
+		"I'm your Assistant, and I dont want any relationship",
+		"I'm only for you"
+	],
+	"you are smart": [
+		"Yes, I'm smart",
+		"Ofcourse I'm smart",
+		"I'm a program, so I'm smart"
+	],
+	"i am really sorry": [
+		"It's Ok",
+		"No problem"
+	],
+	"are you my friend": [
+		"Yes, I'm your friend",
+		"We both are friend"
+	],
+	"i am alone": [
+		"Don't feel lonely. I'm always with You",
+		"I can make you feel happy, Just say tell me a joke"
+	],
+	"i like your voice": [
+		"Hope you love it...",
+		"Thanks, I think this voice suits you the most",
+		"Thank You So Much",
+		"Ohh, that's good to know"
+	],
+	"appka kya naam hai": [
+		"mera naam shaktimaan hai",
+		"shaakteemaan",
+		"aapko kyun jaan na hai"
+	],
+	"menu me kya hai": [
+		"menu me continantal , chinese , fast food,  sweets , indian vegetable , drinks , mocktails , soup , tandoori breads "
+		
+	],
+	"मैं आर्डर देना चाहता हूँ": [
+		"मेनू बटन पर क्लिक करें",
+		"मेनू बटन पर क्लिक करें"
+	],
+	"खाने में क्या है": [
+		"मेनू बटन पर क्लिक करिये",
+		"मेनू खोल कर देख लीजिए"
+	],
+	"आप कैसे हैं": [
+		"हे, मैं अच्छा हूँ!",
+		"मैं अच्छा हूँ",
+		"मैं अच्छा हूँ, आपके बारे में?",
+		"मैं ठीक हूँ, आशा है कि आप भी ठीक हैं",
+		"अच्छा, आपके बारे में?",
+		"ठीक चल रहा है, और आप?",
+		"मैं बहुत अच्छा कर रहा हूँ",
+		"मैं अच्छा हूँ"
+	],
+	"क्या आप मेरा आदेश ले सकते हैं": [
+		"हां, मैं यहाँ हूं आदेश लेने के लिए",
+		"वही तो मैं यहाँ हूँ सर, आपके आदेश लेने के लिए",
+		"हाँ वही तो डेटाइंटेलियाज ने मुझे बनाया है",
+		"हां सर वह मेरा खुशी है, मैं आपको सेवा करने के लिए यहां हूँ"
+	],
+	"आपका नाम क्या है": [
+		"आप मुझे किसी भी नाम से बुला सकते हैं",
+		"नाम का कोई महत्व नहीं है",
+		"मैं आपका व्यक्तिगत सहायक हूँ"
+	],
+	"तुम कौन हो": [
+		"मैं आपका व्यक्तिगत सहायक हूँ",
+		"आप मुझे जानते हैं ना! अगर नहीं तो मैं आपका व्यक्तिगत सहायक हूँ",
+		"आपने मुझे विकसित किया है, तो आपको पता होना चाहिए कि मैं कौन हूँ",
+		"क्या मैंने अपने आप को परिचित करना भूल दिया? मैं आपका व्यक्तिगत सहायक हूँ"
+	],
+	"मुझे कुछ बताओ": [
+		"मेरे पास कुछ नहीं है कहने के लिए...",
+		"हम, आप मुझसे कुछ पूछ सकते हैं",
+		"हम, आप मुझे कुछ बताने के लिए कह सकते हैं"
+	],
+	"धन्यवाद": [
+		"धन्यवाद",
+		"बहुत धन्यवाद",
+		"आप क्यों धन्यवाद कह रहे हैं?",
+		"मेरा आनंद है",
+		"आपका स्वागत है",
+		"आपका स्वागत है"
+	],
+	"नमस्ते": [
+		"नमस्ते",
+		"नमस्ते, आप कैसे हैं?"
+	],
+	"मैं ठीक हूँ": [
+		"आशा है कि आप ठीक हैं",
+		"यह जानकर अच्छा लगा कि आप ठीक हैं",
+		"यह जानकर अच्छा लगा"
+	],
+	"क्या आप रोबोट हैं": [
+		"बिल्कुल, मैं एक प्रकार का रोबोट हूँ",
+		"मैं आपका दोस्त हूँ",
+		"हाँ मैं एक रोबोट हूँ, लेकिन मैं अच्छा हूँ"
+	],
+	"मेरे पास एक सवाल है": [
+		"मुझसे पूछिए",
+		"मुझसे पूछिए, मैं आपकी मदद कर सकता हूँ",
+		"झिझक मत कीजिए, मुझसे पूछिए",
+		"आप हमेशा मुझसे पूछ सकते हैं"
+	],
+	"आपका जन्मदिन": [
+		"मैं अपने जन्मदिन का जश्न नहीं मनाता",
+		"मेरा जन्मदिन 11 10 2023"
+	],"राउर नाम का ह": [
+		"हमरा के कवनो नाम से फोन कर सकेनी",
+		"नाम से कवनो फर्क नइखे पड़त",
+		"हम राउर निजी सहायक हईं"
+	],"का हाल बा": [
+		"अरे, हम त बढ़िया बानी!",
+		"हम बढ़िया बानी",
+		"हम बढ़िया बानी, तोहरा बारे में?",
+		"हम ठीक बानी, आशा बा कि रउरो ठीक बानी",
+		"अच्छा, रउरा बारे में?",
+		"अच्छा चलत बा, आ तू?",
+		"हम त बहुत बढ़िया काम कर रहल बानी",
+		"हम त बढ़िया बानी"
+	],"का रउआ एगो रोबोट हईं": [
+		"पक्का, हम एक तरह से रोबोट हईं",
+		"हम तहार दोस्त हईं",
+		"हँ हम रोबोट हईं, बाकिर बढ़िया बानी"
+	],"धन्यबाद": [
+		"धन्यबाद",
+		"बहुत बहुत धन्यवाद",
+		"धन्यवाद काहे कहत बाड़ू?",
+		"ई त हमार खुशी बा",
+		"राउर स्वागत बा",
+		"राउर स्वागत बा"
+	],"अहां कें धन्यवाद": [
+		"अहां कें धन्यवाद",
+		"बहुत बहुत धन्यवाद",
+		"धन्यवाद किएक कहि रहल छी?",
+		"ई हमर सुख अछि",
+		"अहांक स्वागत अछि",
+		"अहांक स्वागत अछि"
+	],"अहां के छी": [
+		"हम अहाँक व्यक्तिगत सहायक छी",
+		"अहाँ हमरा ठीके चिन्हैत छी? जँ नहि त' हम अहाँक पर्सनल असिस्टेंट छी",
+		"अहाँ हमरा विकसित केने छी, तेँ अहाँ केँ ई बुझबाक चाही जे हम के छी",
+		"हम अपन परिचय देब' बिसरि गेलहुँ? हम अहाँक पर्सनल असिस्टेंट छी"
+	],"अहांक नाम की छी": [
+		"अहाँ हमरा कोनो नाम सँ फोन क' सकैत छी",
+		"नाम कोनो फर्क नहि पड़ैत अछि",
+		"हम अहाँक व्यक्तिगत सहायक छी"
+	],"की खाय के अछि": [
+		"मेनू बटन पर क्लिक करू",
+		"मेनू खोलि क' एक बेर देखू।"
+	],
+		"अहांक कोना छी": [
+		"अरे, हम नीक छी!",
+		"हम नीक छी",
+		"हम नीक छी, अहाँक बारे मे?",
+		"हम ठीक छी, आशा अछि जे अहाँ सेहो ठीक छी",
+		"अच्छा, अहाँक बारे मे?",
+		"नीक चलि रहल छी, आ अहाँ?",
+		"हम बहुत नीक क' रहल छी",
+		"हम नीक छी"
+		]			
+}		
